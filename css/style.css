@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.page{
+    padding-left: 15vw;
+    padding-right: 15vw;
+    color: white;
+}
